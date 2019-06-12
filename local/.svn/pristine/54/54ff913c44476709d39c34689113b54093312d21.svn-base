@@ -1,0 +1,15 @@
+#Thu Apr 04 15:45:12 CST 2019
+apache-snapshots|http\://maven.yonyou.com/nexus/content/repositories/apache-snapshots|sources=1554363912741
+nexus|http\://maven\:8081/nexus/content/groups/public|sources=1554363912741
+iUAP|http\://maven\:8081/nexus/content/repositories/iUAP/|sources=1554363912741
+Nuxeo|http\://maven\:8081/nexus/content/repositories/Nuxeo|sources=1554363912741
+iUAP-Snapshots|http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/|sources=1554363912741
+central-m1|http\://maven\:8081/nexus/content/shadows/central-m1|sources=1554363912741
+iUAP-Stagings|http\://maven\:8081/nexus/content/repositories/iUAP-Stagings/|sources=1554363912741
+releases|http\://maven.yonyou.com/nexus/content/repositories/releases|sources=1554363912741
+snapshots|http\://maven\:8081/nexus/content/repositories/snapshots|sources=1554363912741
+thirdparty|http\://maven\:8081/nexus/content/repositories/thirdparty|sources=1554363912741
+alimaven|http\://maven.aliyun.com/nexus/content/groups/public/|sources=1554363912741
+iWeb|http\://maven\:8081/nexus/content/repositories/iWeb/|sources=1554363912741
+UAP_WEB2.0|http\://maven\:8081/nexus/content/repositories/UAP_WEB2.0|sources=1554363912741
+3rdsnapshot|http\://maven\:8081/nexus/content/repositories/3rdsnapshot|sources=1554363912741

@@ -1,0 +1,11 @@
+#Fri Mar 29 11:42:14 CST 2019
+alimaven|http\://maven.aliyun.com/nexus/content/groups/public/|null=1553830934520
+iWeb|http\://maven\:8081/nexus/content/repositories/iWeb/|null=1553830934520
+central-m1|http\://maven\:8081/nexus/content/shadows/central-m1|null=1553830934520
+thirdparty|http\://maven\:8081/nexus/repositories/thirdparty|null=1553830934520
+nexus|http\://maven\:8081/nexus/content/groups/public|null=1553830934520
+3rdsnapshot|http\://maven\:8081/nexus/repositories/3rdsnapshot|null=1553830934520
+iUAP-Snapshots|http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/|null=1553830934520
+snapshots|http\://maven\:8081/nexus/repositories/snapshots|null=1553830934520
+releases|http\://maven\:8081/nexus/repositories/releases|null=1553830934520
+Nuxeo|http\://maven\:8081/nexus/content/repositories/Nuxeo|null=1553830934520

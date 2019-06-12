@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 29 11:42:11 CST 2019
+http\://maven\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven\:maven-artifact\:jar\:2.2.1 from/to nexus (http\://maven\:8081/nexus/content/groups/public)\: maven
+@default-iWeb-http\://maven\:8081/nexus/content/repositories/iWeb/.lastUpdated=1553830925092
+@default-iUAP-Snapshots-http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.lastUpdated=1553830925036
+http\://maven\:8081/nexus/content/repositories/iWeb/.error=Could not transfer artifact org.apache.maven\:maven-artifact\:jar\:2.2.1 from/to iWeb (http\://maven\:8081/nexus/content/repositories/iWeb/)\: maven
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553830931045
+@default-nexus-http\://maven\:8081/nexus/content/groups/public/.lastUpdated=1553830925065
+http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.error=Could not transfer artifact org.apache.maven\:maven-artifact\:jar\:2.2.1 from/to iUAP-Snapshots (http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/)\: maven

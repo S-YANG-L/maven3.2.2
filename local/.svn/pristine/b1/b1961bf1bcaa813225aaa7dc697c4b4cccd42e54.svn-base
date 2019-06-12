@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 29 11:42:02 CST 2019
+http\://maven\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-classworlds\:pom\:1.2-alpha-9 from/to nexus (http\://maven\:8081/nexus/content/groups/public)\: maven
+@default-iWeb-http\://maven\:8081/nexus/content/repositories/iWeb/.lastUpdated=1553830922696
+@default-iUAP-Snapshots-http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.lastUpdated=1553830922693
+http\://maven\:8081/nexus/content/repositories/iWeb/.error=Could not transfer artifact org.codehaus.plexus\:plexus-classworlds\:pom\:1.2-alpha-9 from/to iWeb (http\://maven\:8081/nexus/content/repositories/iWeb/)\: maven
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553830922792
+@default-nexus-http\://maven\:8081/nexus/content/groups/public/.lastUpdated=1553830922695
+http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.error=Could not transfer artifact org.codehaus.plexus\:plexus-classworlds\:pom\:1.2-alpha-9 from/to iUAP-Snapshots (http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/)\: maven

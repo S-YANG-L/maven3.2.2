@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 29 11:40:09 CST 2019
+@default-iUAP-Snapshots-http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.lastUpdated=1553830809066
+http\://maven\:8081/nexus/content/repositories/iWeb/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR3 from/to iWeb (http\://maven\:8081/nexus/content/repositories/iWeb/)\: maven
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553830809188
+@default-nexus-http\://maven\:8081/nexus/content/groups/public/.lastUpdated=1553830809069
+@default-iUAP-Stagings-http\://maven\:8081/nexus/content/repositories/iUAP-Stagings/.lastUpdated=1553830809068
+http\://maven\:8081/nexus/content/repositories/iUAP-Stagings/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR3 from/to iUAP-Stagings (http\://maven\:8081/nexus/content/repositories/iUAP-Stagings/)\: maven
+http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR3 from/to iUAP-Snapshots (http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/)\: maven
+@default-iWeb-http\://maven\:8081/nexus/content/repositories/iWeb/.lastUpdated=1553830809071
+http\://maven\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR3 from/to nexus (http\://maven\:8081/nexus/content/groups/public)\: maven

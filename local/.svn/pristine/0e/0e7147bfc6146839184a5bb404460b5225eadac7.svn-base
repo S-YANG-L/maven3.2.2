@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 29 11:41:39 CST 2019
+http\://maven\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream-parent\:pom\:1.3.1 from/to nexus (http\://maven\:8081/nexus/content/groups/public)\: maven
+@default-iWeb-http\://maven\:8081/nexus/content/repositories/iWeb/.lastUpdated=1553830899172
+@default-iUAP-Snapshots-http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.lastUpdated=1553830899170
+http\://maven\:8081/nexus/content/repositories/iWeb/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream-parent\:pom\:1.3.1 from/to iWeb (http\://maven\:8081/nexus/content/repositories/iWeb/)\: maven
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553830899278
+@default-nexus-http\://maven\:8081/nexus/content/groups/public/.lastUpdated=1553830899171
+http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream-parent\:pom\:1.3.1 from/to iUAP-Snapshots (http\://maven\:8081/nexus/content/repositories/iUAP-Snapshots/)\: maven
